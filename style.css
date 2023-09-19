@@ -1,0 +1,45 @@
+h1{
+    text-align: end;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.top{
+    margin: 2px;
+    border: 5px solid red;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    font-family: monospace;
+}
+
+.Mitten{
+    margin: 2px;
+    border: 5px solid orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: monospace;
+}
+h2#V{
+    background-color: yellow;
+    border: 2px solid black;
+    width: 49%;
+    text-align: center;
+}
+h2#H{
+    background-color: pink;
+    border: 2px solid black;
+    width: 49%;
+    text-align: center;
+}
+
+.Botten{
+    margin: 2px;
+    border: 5px solid yellow;
+}
